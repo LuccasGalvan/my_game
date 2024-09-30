@@ -1,0 +1,3 @@
+C:/Users/Luccas/Desktop/RPGGame/cmake-build-debug/CMakeFiles/RPGGame.dir
+C:/Users/Luccas/Desktop/RPGGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Luccas/Desktop/RPGGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
